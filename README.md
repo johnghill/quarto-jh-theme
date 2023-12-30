@@ -1,11 +1,6 @@
-# Quarto R-Ladies Theme
+# A personal Quarto theme
 
-This is a repository R-Ladies template using `Quarto` `reveal.js` :
-
-<a href='https://beatrizmilz.github.io/quarto-rladies-theme/' target='_blank'>
-<img src="giphy.gif" width="100%"/></a>
-
-The code to create this example is [available here](https://github.com/beatrizmilz/quarto-rladies-theme/blob/main/template.qmd).
+Forked from R-Ladies template using `Quarto` `reveal.js`.
 
 ## How to install
 
