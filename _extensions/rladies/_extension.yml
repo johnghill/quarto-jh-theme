@@ -1,16 +1,15 @@
-title: R-Ladies Presentation Template
-author: Beatriz Milz
-version: 0.0.3
+title: Personal Presentation Template
+author: John Hill
+version: 0.0.1
 contributes:
   formats: 
     revealjs:
-      logo: logo.png
+      logo: 
       footer: |
-        [R-Ladies](https://rladies.org/) theme for [Quarto Presentations](https://quarto.org/docs/presentations/revealjs/index.html).
-        Code available on [GitHub](https://github.com/beatrizmilz/quarto-rladies-theme).
+        Follow live slides at https://xxx
       theme: rladies.scss
       slide-number: c/t
-      show-slide-number: all
+      show-slide-number: print
       title-slide-attributes:
-        data-background-color: "#562457"
+        data-background-color: "#F53F5B"
       preview-links: true
